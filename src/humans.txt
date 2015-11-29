@@ -1,0 +1,8 @@
+# TEAM
+
+  Benjamin Shyong -- @bshyong -- hello@benshyong.com
+
+# TECHNOLOGY
+
+  CSS3, HTML5
+  Basscss, Gulp
